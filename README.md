@@ -8,3 +8,9 @@
 - run "bash start.sh"
 - do your stuff 
 - run "bash stop.sh"
+
+## If want to add your .sh additional script: 
+Do not forget to add "executable" permission:
+```
+chmod +x /path/to/yourscript.sh
+```
